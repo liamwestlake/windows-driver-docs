@@ -59,7 +59,7 @@ The WDK requires Visual Studio 2022 with the **VS 2022 C++ build tools** and the
 
 1. Register and sign in with your credentials to Visual Studio.
 
-1. Select and install the following VS individual components - *MSVC V143 - VS2022 C++ x64/x86 Spectre-mitigated libs (Latest)* and *MSVC V143 - VS2022 C++ ARM64 Spectre-mitigated libs (Latest)*
+1. Select and install the following VS individual components - *MSVC V143 - VS 2022 C++ x64/x86 Spectre-mitigated libs (Latest)* and *MSVC V143 - VS 2022 C++ ARM64 Spectre-mitigated libs (Latest)*
 
 ### Step 3: Install WDK Visual Studio extension
 
